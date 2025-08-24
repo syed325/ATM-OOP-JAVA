@@ -15,4 +15,4 @@ This is a simple ATM Machine simulation program written in **Java** using **Obje
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ATM-Java-OOP.git
+   git clone https://github.com/syed325/ATM-Java-OOP.git
